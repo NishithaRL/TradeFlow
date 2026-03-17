@@ -96,7 +96,7 @@ docker compose up -d --build
 3. Clone repository:
 
 ```bash
-git clone https://github.com/YASH-VYAS711/TradeFlow.git
+git clone https://github.com/NishithaRL/TradeFlow.git
 cd TradeFlow
 ```
 
